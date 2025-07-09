@@ -1,3 +1,3 @@
 # KHF
 
-Klipper_Hornet_Fw.
+Klipper Hornet Fw.
